@@ -11,7 +11,7 @@ body {
 }
 
 /* To style padding, font type, background color and text color in the header container */
-.header {
+header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
@@ -19,29 +19,24 @@ body {
 }
 
 /* To style the display and font size of the h1 element inside the header container */
-.header h1 {
+header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
 /* To style the text color of a portion of a word within the h1 element of the header container */
-.header h1 .seo {
+header h1 .seo {
     color: #d9dcd6;
 }
 
-/* To style the list style type of the unordered list element within the header container */
-.header div ul {
-    list-style-type: none;
-}
-
 /* To style the display and left margin of the list items within the unordered list element inside the header container */
-.header div ul li {
+header div ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
 /* To style the top padding, right margin, float direction, font-family and font-size of the div element within the header container */
-.header div {
+header div {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -60,7 +55,7 @@ a {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-image: url("./Images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
 }
@@ -89,48 +84,6 @@ a {
 
 /* To style the h2 element within the "search-engine-optimization" class with a bottom margin and font size properties */
 .search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-/* To style the class "online-reputation-management" with bottom margin, padding, height, font-family, background color and text color properties */
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-/* To style the image element within the "online-reputation-management" class with a max height property  */
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-/* To style the h2 element within the "online-reputation-management" class with a max height property  */
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-/* To style the class "social-media-marketing" with bottom margin, padding, height, font-family, background color and text color properties */
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-/* To style the image element within the "social-media-marketing" class with a max height property  */
-.social-media-marketing img {
-    max-height: 200px;
-}
-
-/* To style the h2 element within the "social-media-marketing" class with a max height property  */
-.social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -183,46 +136,8 @@ p {
     max-width: 150px;
 }
 
-/* To style the class "benefit brand" with a bottom margin and text color */
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-/* To style the h3 element within the class "benefit brand" with a bottom margin and centered text alignment*/
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-/* To style the image element within the class "benefit brand" with display, margins and max width properties */
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-/* To style the class "benefit cost" with a bottom margin and text color */
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-/* To style the h3 element within the class "benefit cost" with a bottom margin and centered text alignment*/
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-/* To style the image element within the class "benefit cost" with display, margins and max width properties */
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
 /* To style the footer container at the bottom of the webpage with padding, clear, font family and text align properties */
-.footer {
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -230,6 +145,6 @@ p {
 }
 
 /* To style the h2 element within the footer container with a font size property */
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }
