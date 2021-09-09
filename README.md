@@ -1,21 +1,36 @@
 # Homework_1
 
-- fixed a broken link within the HTML DOC relating too search-engine-optimization
+ABOUT
 
-- rearranged CSS elements to better follow the flow/outline of the HTML doc
+    Editting the index.html and style.css code for the landing page for Horiseon
 
-- removed .header div ul {} from the CSS doc, as it wasn't adding anything to the webpage
+FIXES/EDITS DONE
 
-- added comments to the CSS doc to explain the stylization and explain what section of the webpage the class is relating too
+    - fixed a broken link within the HTML DOC relating too search-engine-optimization
 
-- followed GitBash and GitHub procedures for pushing changes
+    - rearranged CSS elements to better follow the flow/outline of the HTML doc
 
-- changed the class of each individual div elements within <div class="content"> to class="search-engine-optimization" (in order to combine the CSS styles and clean up repetative styles)
+    - removed .header div ul {} from the CSS doc, as it wasn't adding anything to the webpage
 
-- combined CSS for the individual div elements within the <div class="benefits"> to class="benefit-lead" (in order to combine the CSS styles and clean up repetative styles)
+    - added comments to the CSS doc to explain the stylization and explain what section of the webpage the class is relating too
 
-- changed the header and footer "divs" into just header, footer semantics
+    - followed GitBash and GitHub procedures for pushing changes
 
-- added images from main utor folder to personal folder
+    - changed the class of each individual div elements within <div class="content"> to class="search-engine-optimization" (in order to combine the CSS styles and clean up repetative styles)
 
-- changed the <title></title> from "website" to "Horiseon"
+    - combined CSS for the individual div elements within the <div class="benefits"> to class="benefit-lead" (in order to combine the CSS styles and clean up repetative styles)
+
+    - changed the header and footer "divs" into just header, footer semantics
+
+    - added images from main utor folder to personal folder
+
+    - changed the <title></title> from "website" to "Horiseon"
+
+
+GitHub Pages URL
+
+    https://wickette.github.io/Homework_1/
+
+GitHub Code URL
+
+    https://github.com/Wickette/Homework_1.git
